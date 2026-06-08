@@ -5,7 +5,7 @@ public class ValidateInput {
         Scanner scanner = new Scanner(System.in);
         int choice;
 
-        // Keep looping until valid input is received
+        
         do {
             System.out.print("Enter 1 or 2: ");
             choice = scanner.nextInt();

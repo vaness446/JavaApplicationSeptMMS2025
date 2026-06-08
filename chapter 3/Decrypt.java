@@ -1,5 +1,5 @@
 
-Decryption Program:
+
 import java.util.Scanner;
 
 public class Decrypt {
